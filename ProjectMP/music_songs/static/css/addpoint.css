@@ -1,0 +1,186 @@
+h1{
+    color: #c20000;
+    font-family: 'Segoe UI';
+}
+body{
+    background-color: #c20000;;
+}
+
+#alert{
+    margin-top: 30px;
+    width: 300px;
+    height: 30px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 450px;
+    align-items: center;
+}
+.container{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#txnom{
+    width: 300px;
+    height: 30px;
+    font-size: 18px;
+    font-family: 'Segoe UI';
+    border: 5px solid #ff4040;
+    text-decoration: none;
+    margin-left: 355px;
+    margin-top: 100px;
+}
+#btnsave{
+    width: 300px;
+    height: 50px;
+    font-size: 18px;
+    font-family: 'Segoe UI';
+    align-items: center;
+    font-weight: bold;
+    color: #c20000;
+    margin-left: 355px;
+    background-color: #cbcbcb;
+    margin-bottom: 30px;
+    border: 4px solid #ff4040;
+}
+.frame{
+    background-color: #cbcbcb;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    height: 200px;
+    margin-left: 500px;
+    border-radius: 8px;
+}
+#addsongd {
+    background-color: #ff4040;
+    width: 160px;
+    height: 30px;
+    border-radius: 7px;
+    margin-right: 10px;
+    border: 1px solid #c20000;
+    
+}
+#addsong{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+}
+#addsingd {
+    background-color: #ff4040;
+    width: 160px;
+    height: 30px;
+    border-radius: 7px;
+    border: 1px solid #c20000;
+    
+}
+#addsing{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+}
+
+
+
+#looklistd {
+    background-color: #ff4040;
+    width: 160px;
+    height: 30px;
+    border-radius: 7px;
+    margin-top: 10px;
+    border: 1px solid #c20000;
+}
+
+#looklist{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+}
+
+#lookrankingd {
+    background-color: #ff4040;
+    width: 160px;
+    height: 30px;
+    border-radius: 7px;
+    margin-top: 10px;
+    border: 1px solid #c20000;
+}
+
+#lookranking{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+}
+#lookawardsd {
+    background-color: #ff4040;
+    width: 160px;
+    height: 30px;
+    border-radius: 7px;
+    margin-top: 10px;
+    border: 1px solid #c20000;
+}
+
+#lookawards{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+}
+#pointsadd{
+    margin-top: 10px;
+    color: #c20000;
+}
+#addpointsd{
+    background-color: #ff4040;
+    width: 160px;
+    height: 30px;
+    border-radius: 7px;
+    margin-top: 10px;
+    border: 1px solid #c20000;
+}
+#addpoints{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+}
+
+a:hover{
+    color: white;
+}
+
+#btnback{
+    width: 40px;
+    height: 40px;
+    border: none;
+    font-size: 36px;
+    background-color: #c20000;
+}
+
+#txtypeInp{
+    width: 300px;
+    height: 50px;
+    font-size: 18px;
+    font-family: 'Segoe UI';
+    border: 5px solid #ff4040;
+    text-decoration: none;
+    margin-left: 355px;
+}
+
+#back{
+    text-decoration: none;
+    color: white;
+}
+

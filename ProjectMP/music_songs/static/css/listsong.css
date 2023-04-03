@@ -1,0 +1,17 @@
+body{
+    background-color: #c20000;
+}
+
+h1{
+    color: white;
+}
+
+#contain{
+    max-height: 550px;
+    overflow-y: auto;
+    display: block; 
+}
+
+table{
+    background-color: white;
+}

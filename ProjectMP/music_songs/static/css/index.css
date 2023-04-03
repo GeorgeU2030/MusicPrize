@@ -1,0 +1,141 @@
+
+h1{
+    color: #c20000;
+    font-family: 'Segoe UI';
+}
+
+body{
+    background-image: url('/media/imagebd/musicPicture.jpg');
+}
+
+#container{
+    margin-top: 100px;
+    padding: 20px;
+    background-color: #cbcbcb;
+    width: 400px;
+    height: 500px;
+    border: 5px solid #c20000;
+    border-radius: 10px;
+}
+
+#bestSinger{
+    width: 160px;
+    height: 180px;
+    margin-left: 95px;
+    background-color: #ff4040;
+    border-radius: 10px;
+}
+
+#buttonscontainer{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#adds{
+    display: flex;
+    flex-direction:row;
+}
+#addsongd {
+    background-color: #ff4040;
+    width: 160px;
+    height: 30px;
+    border-radius: 7px;
+    margin-right: 10px;
+    border: 1px solid #c20000;
+    
+}
+#addsong{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+}
+#addsingd {
+    background-color: #ff4040;
+    width: 160px;
+    height: 30px;
+    border-radius: 7px;
+    border: 1px solid #c20000;
+    
+}
+#addsing{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+}
+
+
+
+#looklistd {
+    background-color: #ff4040;
+    width: 160px;
+    height: 30px;
+    border-radius: 7px;
+    margin-top: 10px;
+    border: 1px solid #c20000;
+}
+
+#looklist{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+}
+
+#lookrankingd {
+    background-color: #ff4040;
+    width: 160px;
+    height: 30px;
+    border-radius: 7px;
+    margin-top: 10px;
+    border: 1px solid #c20000;
+}
+
+#lookranking{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+}
+#lookawardsd {
+    background-color: #ff4040;
+    width: 160px;
+    height: 30px;
+    border-radius: 7px;
+    margin-top: 10px;
+    border: 1px solid #c20000;
+}
+
+#lookawards{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+}
+
+#addpointsd{
+    background-color: #ff4040;
+    width: 160px;
+    height: 30px;
+    border-radius: 7px;
+    margin-top: 10px;
+    border: 1px solid #c20000;
+}
+#addpoints{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+}
+
+a:hover{
+    color: white;
+}
